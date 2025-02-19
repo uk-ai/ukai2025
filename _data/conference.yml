@@ -1,12 +1,13 @@
 full_name: UK AI Conference 2025
 short_name: UKAI
 name: UK AI Conference 2025
-instance: Third
+instance: third
 #styling: Conference for
 # set to True if the programme is draft only.
 draft: False # set tbo True if the programme is draft only.
 hide_tentative: False
-venue: the Health Data Research UK Institute
+venue: Health Data Research UK (HDR UK) Institute
+venue_url: https://www.hdruk.ac.uk/
 location: London, UK
 year: 2025
 month: June
@@ -45,6 +46,11 @@ chairs:
     # Give their personal web page.  
     url: https://cabrerac.github.io/
     institute: University of Cambridge
+  - family: Keys
+    given: Hazel
+    # Give their personal web page.  
+    url: https://www.hdruk.ac.uk/people/hazel-keys/
+    institute: HDR UK Institute
   - family: Kiden
     given: Sarah
     # Give their personal web page.  
@@ -78,7 +84,7 @@ chairs:
     given: Christopher 
     # Give their personal web page.  
     url: https://www.hdruk.ac.uk/people/christopher-yau/
-    institute: Health Data Research UK Institute
+    institute: HDR UK Institute
 - type: Chairs
   people:
   - family: Lawrence
