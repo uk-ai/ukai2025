@@ -3,8 +3,6 @@ layout: home
 title: Index
 ---
 
-<img src="assets/images/welcome.jpg" style="width:100%;height:auto">
-
 # Registration and Abstract Submission
 
 To register for the conference and/or submit an abstract, please use this form: **[{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }}){:target="_blank"}**
