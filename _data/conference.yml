@@ -6,7 +6,8 @@ instance: Third
 # set to True if the programme is draft only.
 draft: True # set tbo True if the programme is draft only.
 hide_tentative: False
-venue: the Wellcome Trust
+venue: Health Data Research UK (HDR UK) Institute
+venue_url: https://www.hdruk.ac.uk/
 location: London, UK
 year: 2025
 month: June
@@ -16,11 +17,11 @@ dates:
 deadlines:
   # Fill in the key dates as below.
   - name: Abstract submission deadline
-    text: Friday, 25 April 2025 (Anywhere on Earth)
+    text: Friday, 25th April 2025 (Anywhere on Earth)
     type: submission
     important: True
-  - name: Abstract decisions sent
-    text: Friday, 23 May 2025
+  - name: Confirmation emails sent
+    text: Friday, 23rd May 2025 (Anywhere on Earth)
     type: decision
     important: True
   - name: Registration opens
@@ -32,7 +33,7 @@ submission:
   # Whether to show the submission site.
   show: False
   # The URL of the submission site.
-  url: https://forms.gle/TikBG7JEHpXAmCqH9 # Currently links to the 2024 edition.
+  url: https://forms.gle/RKWBwyxP9z9dA9Cp8
   # The name of the submission site (e.g. Microsoft CMT Website)
   name: Submission Form
 # List program chairs here.      
@@ -49,6 +50,11 @@ chairs:
     # Give their personal web page.  
     url: https://cabrerac.github.io/
     institute: University of Cambridge
+  - family: Keys
+    given: Hazel
+    # Give their personal web page.  
+    url: https://www.hdruk.ac.uk/people/hazel-keys/
+    institute: HDR UK Institute
   - family: Kiden
     given: Sarah
     # Give their personal web page.  
@@ -76,13 +82,13 @@ chairs:
 #      given: TBD
 #      url: 
 #      institute: EPSRC/UKRI
-# - type: Local Chair
-#   people:
-#   - family: Lehre
-#     given: Per Kristian
-#     # Give their personal web page.  
-#     url: https://www.cs.bham.ac.uk/~lehrepk/
-#     institute: University of Birmingham
+- type: Local Chair
+  people:
+  - family: Yau
+    given: Christopher 
+    # Give their personal web page.  
+    url: https://www.hdruk.ac.uk/people/christopher-yau/
+    institute: HDR UK Institute
 - type: Chairs
   people:
   - family: Lawrence
@@ -96,10 +102,7 @@ chairs:
     url: https://www.bdi.ox.ac.uk/Team/christopher-yau
     institute: University of Oxford
 previous_meeting:
-  name: The Second UK AI Conference 2023
-  url: https://uk-ai.org/ukai2023/
-previous_meeting:
-  name: The Second UK AI Conference 2024
+  name: The Second UK AI Conference 2024 
   url: https://uk-ai.org/ukai2024/
 
 map:

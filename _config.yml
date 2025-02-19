@@ -15,6 +15,7 @@ youtube:
 ghub:
   edit: true
   repository: ukai2025
+  repository: ukai2025
   
 # Build settings
 markdown: kramdown

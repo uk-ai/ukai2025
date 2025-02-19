@@ -21,6 +21,10 @@ For questions and queries please contact Christian Cabrera: [chc79@cam.ac.uk](ma
 
 {% include listdates.html %}
 
+# Venue
+
+The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.conference.location }}. More details on the venue can be bound [here](https://uk-ai.org/ukai2024/venue.html).
+
 # Organizing Committee
 
 {%if site.author.email %}General inquiries should be sent to [{{ site.author.email }}](mailto:{{ site.author.email }}).{%endif%}
