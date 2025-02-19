@@ -3,8 +3,6 @@ layout: home
 title: Index
 ---
 
-<img src="assets/images/welcome.jpg" style="width:100%;height:auto">
-
 # Venue
 
 The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.conference.location }}. More details on the venue can be found [here](https://uk-ai.org/ukai2025/venue.html).
