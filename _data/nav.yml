@@ -1,15 +1,15 @@
 main:
   - label: Home
-    link: /ukai2024
-  #- label: About
-  #  link: /ukai2024/about/
-  - label: Programme
-    link: /ukai2024/program.html
-  - label: Venue
-    link: /ukai2024/venue.html
+    link: /ukai2025
+  - label: About
+    link: /ukai2025/about/
+  #- label: Programme
+  #  link: /ukai2025/program.html
+  #- label: Venue
+  #  link: /ukai2025/venue.html
 footer:
   - label: Home
-    link: /ukai2024
+    link: /ukai2025
   #- label: About
   #  link: /ukai2024/about/
    
