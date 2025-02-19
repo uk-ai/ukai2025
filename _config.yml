@@ -1,8 +1,8 @@
 # Site settings
-title: The Third UK AI Conference 2025
+title: The third UK AI Conference 2025
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  This is the web page of the Third UK AI Conference 2025.
+  This is the web page of the third UK AI Conference 2025.
 baseurl: "/ukai2025" # the subpath of your site, e.g. /blog/
 url: "http://uk-ai.org" # the base hostname & protocol for your site
 github_username:  uk-ai
