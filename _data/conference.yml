@@ -1,33 +1,38 @@
-full_name: UK AI Conference 2024
+full_name: UK AI Conference 2025
 short_name: UKAI
-name: UK AI Conference 2024
-instance: Second
+name: UK AI Conference 2025
+instance: Third
 #styling: Conference for
 # set to True if the programme is draft only.
-draft: False # set tbo True if the programme is draft only.
+draft: True # set tbo True if the programme is draft only.
 hide_tentative: False
-venue: the Exchange, University of Birmingham
-location: Birmingham, UK
-year: 2024
-month: Nov
+venue: the Wellcome Trust
+location: London, UK
+year: 2025
+month: June
 dates:
-  - 2024-11-22
+  - 2025-06-23
+  - 2025-06-24
 deadlines:
   # Fill in the key dates as below.
-  - name: Registration deadline
-    text: Friday, 4 October 2024 (Anywhere on Earth)
+  - name: Abstract submission deadline
+    text: Friday, 25 April 2025 (Anywhere on Earth)
     type: submission
     important: True
-  - name: Confirmation emails sent
-    text: Tuesday, 22 October 2024
+  - name: Abstract decisions sent
+    text: Friday, 23 May 2025
     type: decision
+    important: True
+  - name: Registration opens
+    text: Friday, 23 May 2025
+    type: registration
     important: True
 # Give the submission site details here.
 submission:
   # Whether to show the submission site.
-  show: True
+  show: False
   # The URL of the submission site.
-  url: https://forms.gle/TikBG7JEHpXAmCqH9
+  url: https://forms.gle/TikBG7JEHpXAmCqH9 # Currently links to the 2024 edition.
   # The name of the submission site (e.g. Microsoft CMT Website)
   name: Submission Form
 # List program chairs here.      
@@ -71,13 +76,13 @@ chairs:
 #      given: TBD
 #      url: 
 #      institute: EPSRC/UKRI
-- type: Local Chair
-  people:
-  - family: Lehre
-    given: Per Kristian
-    # Give their personal web page.  
-    url: https://www.cs.bham.ac.uk/~lehrepk/
-    institute: University of Birmingham
+# - type: Local Chair
+#   people:
+#   - family: Lehre
+#     given: Per Kristian
+#     # Give their personal web page.  
+#     url: https://www.cs.bham.ac.uk/~lehrepk/
+#     institute: University of Birmingham
 - type: Chairs
   people:
   - family: Lawrence
@@ -85,9 +90,17 @@ chairs:
     # Give their personal web page.  
     url: https://inverseprobability.com
     institute: University of Cambridge
+  - family: Yau
+    given: Christopher
+    # Give their personal web page.
+    url: https://www.bdi.ox.ac.uk/Team/christopher-yau
+    institute: University of Oxford
 previous_meeting:
-  name: The First UK AI Conference 2023 
+  name: The Second UK AI Conference 2023
   url: https://uk-ai.org/ukai2023/
+previous_meeting:
+  name: The Second UK AI Conference 2024
+  url: https://uk-ai.org/ukai2024/
 
 map:
   show: False
