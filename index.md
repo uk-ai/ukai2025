@@ -29,4 +29,9 @@ The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.
 
 {% include listallchairs.html program_committee=true %}
 
+# Sponsors
+
+![HDR UK](./assets/images/hdruk_logo.png)
+
+
 
