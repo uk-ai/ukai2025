@@ -31,7 +31,7 @@ The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.
 
 # Sponsors
 
-![HDR UK](./assets/images/hdruk_logo.png)
+<img src="./assets/images/hdruk_logo.png" alt="HDR UK" style="width: 50%; max-width: 200px;">
 
 
 
