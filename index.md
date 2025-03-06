@@ -3,10 +3,6 @@ layout: home
 title: Index
 ---
 
-# Venue
-
-The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.conference.location }}. More details on the venue can be found [here](https://uk-ai.org/ukai2025/venue.html).
-
 # Registration and Abstract Submission
 
 To register for the conference and/or submit an abstract, please use this form: **[{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }}){:target="_blank"}**
@@ -21,7 +17,7 @@ For questions and queries please contact Christian Cabrera: [chc79@cam.ac.uk](ma
 
 # Venue
 
-The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.conference.location }}. More details on the venue can be bound [here](https://uk-ai.org/ukai2024/venue.html).
+The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.conference.location }}. More details on the venue can be found [here](https://uk-ai.org/ukai2025/venue.html).
 
 # Organizing Committee
 
