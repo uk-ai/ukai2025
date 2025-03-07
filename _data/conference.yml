@@ -6,8 +6,8 @@ instance: Third
 # set to True if the programme is draft only.
 draft: True # set tbo True if the programme is draft only.
 hide_tentative: False
-venue: Health Data Research UK (HDR UK) Institute
-venue_url: https://www.hdruk.ac.uk/
+venue: The Gibbs Building
+venue_url:
 location: London, UK
 year: 2025
 month: June
