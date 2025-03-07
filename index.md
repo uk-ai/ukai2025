@@ -17,7 +17,7 @@ For questions and queries please contact Christian Cabrera: [chc79@cam.ac.uk](ma
 
 # Venue
 
-The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.conference.location }}. More details on the venue can be found [here](https://uk-ai.org/ukai2025/venue.html).
+The conference will be hosted by the {{ site.data.conference.venue }}, {{ site.data.conference.location }}. More details on the venue can be found [here](https://uk-ai.org/ukai2025/venue.html).
 
 # Organizing Committee
 
