@@ -21,11 +21,11 @@ deadlines:
     type: submission
     important: True
   - name: Confirmation emails sent
-    text: Friday, 23rd May 2025 (Anywhere on Earth)
+    text: Friday, 16th May 2025 (Anywhere on Earth)
     type: decision
     important: True
   - name: Registration opens
-    text: Friday, 23 May 2025
+    text: Friday, 9th May 2025
     type: registration
     important: True
 # Give the submission site details here.
