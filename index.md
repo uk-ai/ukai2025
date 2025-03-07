@@ -17,7 +17,7 @@ For questions and queries please contact Christian Cabrera: [chc79@cam.ac.uk](ma
 
 # Venue
 
-The conference will be hosted by <a href="https://www.hdruk.ac.uk/" target="_blank">{{ site.data.conference.venue }}</a>, {{ site.data.conference.location }}. More details on the venue can be found [here](https://uk-ai.org/ukai2025/venue.html).
+The conference will be hosted by {{ site.data.conference.venue }}, {{ site.data.conference.location }}. More details on the venue can be found [here](https://uk-ai.org/ukai2025/venue.html).
 
 # Organizing Committee
 
