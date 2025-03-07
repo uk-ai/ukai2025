@@ -3,7 +3,10 @@ layout: page
 title: Call for Papers
 ---
 
-The UK AI Community is pleased to announce the third UK AI Conference on Monday 23rd and Tuesday 24th of June at the Health Data Research UK Institute. 
+The UK AI Community is pleased to announce the Third UK AI Conference on Monday 23rd and Tuesday 24th of June. The conference will be held
+at **The Gibbs Buidling**, 215 Euston Road, London, NW1 2BE. We are proud to announce that this year's UK AI Conference will be supported by 
+[HDR UK](https://www.hdruk.ac.uk/), the National Institute for Health Data Research!
+
 In addition to plenary talks, the conference will also include short talks and poster presentations. We invite the submission of abstracts 
 to be presented as talks or papers at the conference. This event will allow researchers nationwide to share work on all aspects of AI, from 
 theory and development to application and real-world implementation. Topics include but are not limited to:
