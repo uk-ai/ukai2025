@@ -25,6 +25,8 @@ theory and development to application and real-world implementation. Topics incl
 - Digital Twins
 - AI Systems
 
+**In this edition, we particularly encourage submissions related to AI Healthcare.**
+
 To register for the conference and/or submit an abstract, please use this form: [**Submission Form**](#){:target="_blank"}.
 
 Abstracts for posters and talks must not exceed 300 words. Successful submissions will be selected to present at the 2025 UK AI Conference. 
