@@ -39,7 +39,7 @@ early career researchers to submit an abstract or paper to the upcoming conferen
 
 **Important Dates:**
 
-- Abstract submission deadline: **Friday, 25th April 2025 (Anywhere on Earth)**
+- Abstract submission deadline (extended): **Friday, 2nd May 2025 (Anywhere on Earth)**
 - Abstract decision notifications: **Friday, 16th May 2025 (Anywhere on Earth)**
 - Conference date: **Monday 23rd and Tuesday 24th of June 2025**
   
