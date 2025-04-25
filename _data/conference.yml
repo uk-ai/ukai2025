@@ -16,8 +16,8 @@ dates:
   - 2025-06-24
 deadlines:
   # Fill in the key dates as below.
-  - name: Abstract submission deadline
-    text: Friday, 25th April 2025 (Anywhere on Earth)
+  - name: Abstract submission deadline (extended)
+    text: Friday, 2nd May 2025 (Anywhere on Earth)
     type: submission
     important: True
   - name: Confirmation emails sent
@@ -44,6 +44,11 @@ chairs:
     given: Alistair
     # Give their personal web page.  
     url: https://www.alistairbenford.com/
+    institute: University of Birmingham
+  - family: Büyükateş
+    given: Baturalp
+    # Give their personal web page.  
+    url: https://bbuyukates.github.io/
     institute: University of Birmingham
   - family: Cabrera
     given: Christian
