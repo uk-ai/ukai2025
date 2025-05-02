@@ -25,7 +25,7 @@ deadlines:
     type: decision
     important: True
   - name: Registration opens
-    text: Friday, 9th May 2025
+    text: Friday, 23rd May 2025
     type: registration
     important: True
 # Give the submission site details here.
