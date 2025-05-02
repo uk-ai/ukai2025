@@ -75,6 +75,11 @@ chairs:
     # Give their personal web page.  
     url: https://linkedin.com/in/vincentgbouna
     institute: Aston University
+  - family: Zhou
+    given: Feng
+    # Give their personal web page.  
+    url: https://www.nottingham.ac.uk/research/groups/cfam/meet-the-team/feng.zhou2
+    institute: University of Nottingham
 #- type: Alan Turing Institute
 #  people: 
 #    - family: TBD
