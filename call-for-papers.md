@@ -27,7 +27,7 @@ theory and development to application and real-world implementation. Topics incl
 
 **In this edition, we particularly encourage submissions related to AI Healthcare.**
 
-To register for the conference and/or submit an abstract, please use this form: [**Submission Form**]({{ site.data.conference.submission.url }}){:target="_blank"}.
+To register for the conference and/or submit an abstract, please use this form: [**Submission Form**]({{ site.data.conference.submission.url }}){:target="_blank"} (**now closed**).
 
 Abstracts for posters and talks must not exceed 300 words. Successful submissions will be selected to present at the 2025 UK AI Conference. 
 Furthermore, those with successful submissions for talks will be allowed to submit their work as a paper for publication to the 
@@ -39,7 +39,7 @@ early career researchers to submit an abstract or paper to the upcoming conferen
 
 **Important Dates:**
 
-- Abstract submission deadline (extended): **Friday, 2nd May 2025 (Anywhere on Earth)**
+- Abstract submission deadline (extended): ~~**Friday, 2nd May 2025 (Anywhere on Earth)**~~
 - Abstract decision notifications: **Friday, 16th May 2025 (Anywhere on Earth)**
 - Conference date: **Monday 23rd and Tuesday 24th of June 2025**
   
