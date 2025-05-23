@@ -3,6 +3,12 @@ layout: home
 title: Index
 ---
 
+# Registration
+
+To register for the conference, please use this link: **[Registration](https://www.eventbrite.co.uk/e/uk-ai-conference-2025-tickets-1323452765849){:target="_blank"}**
+
+Registration will close on the **6th of June 2025**.
+
 # Abstract Submission
 
 To submit an abstract for the conference, please use this form: **[{{ site.data.conference.submission.name }}]({{ site.data.conference.submission.url }}){:target="_blank"}**
