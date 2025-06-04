@@ -26,3 +26,16 @@ Before joining the Computer Lab in Cambridge Carl Henrik was a Senior Lecturer a
 University of Bristol, prior to this he was an Assistant Professor in Machine Learning 
 at the Royal Institute of Technology (KTH) in Stockholm. He did his postdoctoral research 
 at University of California at Berkeley and his PhD is from Oxford Brookes University. 
+
+---
+title: "Keynote: Dr Anjali Mazumder"
+track: 1
+excerpt: Keynote presentation by Dr Anjali Mazumder from The Alan Turing Institute
+layout: plenary
+start_time: 2025-06-24 10:05
+end_time: 2025-06-24 10:45
+location: Main Auditorium
+venue: The Gibbs Building, Wellcome Trust Collection, London, UK
+---
+
+Dr Anjali Mazumder from The Alan Turing Institute will deliver the keynote address for Day 2 of UK AI 2025. This year's conference is supported by HDR UK, the National Institute for Health Data Research. 
