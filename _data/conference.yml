@@ -4,7 +4,7 @@ name: UK AI Conference 2025
 instance: Third
 #styling: Conference for
 # set to True if the programme is draft only.
-draft: True # set tbo True if the programme is draft only.
+draft: False # set tbo True if the programme is draft only.
 hide_tentative: False
 venue: The Gibbs Building, Wellcome Trust Collection
 venue_url:
