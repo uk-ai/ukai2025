@@ -5,7 +5,7 @@ excerpt: Evening drinks reception with AI music performance by Steve Benford
 layout: plenary
 start_time: 2025-06-23 17:30
 end_time: 2025-06-23 18:00
-location: Main Hall
+location:
 venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 ---
 

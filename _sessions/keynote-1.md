@@ -5,7 +5,7 @@ track: 1
 excerpt: Keynote presentation by Prof Alastair Denniston from HDR UK, University of Birmingham
 start_time: 2025-06-23 10:05
 end_time: 2025-06-23 10:45
-location: Main Auditorium
+location:
 venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 ---
 

@@ -5,7 +5,7 @@ excerpt: Morning coffee break with poster presentations
 layout: plenary
 start_time: 2025-06-23 10:45
 end_time: 2025-06-23 11:40
-location: Main Hall
+location:
 venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 ---
 

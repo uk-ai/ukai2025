@@ -5,7 +5,7 @@ excerpt: Lunch break with networking opportunities
 layout: plenary
 start_time: 2025-06-24 13:00
 end_time: 2025-06-24 14:00
-location: Main Hall
+location:
 venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 ---
 

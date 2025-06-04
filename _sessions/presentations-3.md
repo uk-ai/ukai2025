@@ -5,7 +5,7 @@ track: 1
 start_time: 2025-06-23 16:15
 end_time: 2025-06-23 17:30
 excerpt: Third session of research presentations
-location: Main Auditorium
+location:
 venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 ---
 

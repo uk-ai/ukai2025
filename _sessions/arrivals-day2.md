@@ -5,7 +5,7 @@ excerpt: Registration and refreshments
 layout: plenary
 start_time: 2025-06-24 09:30
 end_time: 2025-06-24 10:00
-location: Main Hall
+location:
 venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 ---
 

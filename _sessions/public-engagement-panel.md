@@ -5,7 +5,7 @@ excerpt: Panel discussion featuring members of the public, led by PEDRI
 layout: plenary
 start_time: 2025-06-23 12:30
 end_time: 2025-06-23 13:00
-location: Main Auditorium
+location:
 venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 ---
 

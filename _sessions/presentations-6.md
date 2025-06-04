@@ -5,7 +5,7 @@ track: 1
 start_time: 2025-06-24 15:45
 end_time: 2025-06-24 17:00
 excerpt: Final session of research presentations
-location: Main Auditorium
+location:
 venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 ---
 

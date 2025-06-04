@@ -5,7 +5,7 @@ excerpt: Morning coffee break with poster presentations
 layout: plenary
 start_time: 2025-06-24 10:45
 end_time: 2025-06-24 11:45
-location: Main Hall
+location:
 venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 ---
 
@@ -13,4 +13,25 @@ Morning coffee break with the third session of poster presentations. Take this o
 
 **Posters format**: A0 or A1 with portrait orientation.
 
-*Poster presentations will be announced closer to the conference date.* 
+| Board | Poster | Author | Institution  |
+| :----: | :----: | :----: | :----: |
+| 1|TBD|TBD|TBD|
+| 1|TBD|TBD|TBD|
+| 2|TBD|TBD|TBD|
+| 2|TBD|TBD|TBD|
+| 2|TBD|TBD|TBD|
+| 3|TBD|TBD|TBD|
+| 3|TBD|TBD|TBD|
+| 4|TBD|TBD|TBD|
+| 4|TBD|TBD|TBD|
+| 4|TBD|TBD|TBD|
+| 5|TBD|TBD|TBD|
+| 5|TBD|TBD|TBD|
+| 6|TBD|TBD|TBD|
+| 6|TBD|TBD|TBD|
+| 6|TBD|TBD|TBD|
+| 7|TBD|TBD|TBD|
+| 7|TBD|TBD|TBD|
+| 7|TBD|TBD|TBD|
+| 8|TBD|TBD|TBD|
+| 8|TBD|TBD|TBD|
