@@ -5,7 +5,7 @@ title: Index
 
 # Programme
 
-Arrival and registration will begin at 9:30 on 23 June, with the opening session taking place at 10:00. 
+Registration will begin at 9:30 on 23 June, with the opening session taking place at 10:00.
 
 A full programme for the conference can be found [here](https://uk-ai.org/ukai2025/program.html).
 
