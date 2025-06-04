@@ -9,12 +9,12 @@ location:
 venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 ---
 
-The fourth session of presentations features selected research talks from UK AI researchers.
+The fourth session of presentations featuring selected research talks from UK AI researchers.
 
 | Start   | End    | Talk                                                                                                                        | Speaker                |  Institution              |
 |  :----: | :----: |   :----:                                                                                                                    |   :----:               |   :----:                  | 
-| 15:45   | 16:00  | TBA                                                                                                                         | TBA                    | TBA                       |
-| 16:00   | 16:15  | TBA                                                                                                                         | TBA                    | TBA                       |
-| 16:15   | 16:30  | TBA                                                                                                                         | TBA                    | TBA                       |
-| 16:30   | 16:45  | TBA                                                                                                                         | TBA                    | TBA                       |
-| 16:45   | 17:00  | TBA                                                                                                                         | TBA                    | TBA                       | 
+| 11:45   | 12:00  | Identifying Risk Factors for Rodent-Borne Disease Outbreaks with AI                                                          | Natalie Imirzian       | Natural History Museum    |
+| 12:00   | 12:15  | Preventing overfitting with unlabelled data: A multi-objective approach                                                      | Osama Rashid           | University of Birmingham  |
+| 12:15   | 12:30  | Audio-Visual Backoff for Privacy-Preserving Speech Enhancement                                                               | Poppy Welch            | University of Southampton |
+| 12:30   | 12:45  | Active Learning for Bio-material Designs                                                                                    | Rongjun Dong           | University of Nottingham  |
+| 12:45   | 13:00  | Stability Analysis of Coevolutionary Algorithms                                                                             | Alistair Benford       | University of Birmingham  | 

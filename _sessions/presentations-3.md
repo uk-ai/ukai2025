@@ -13,8 +13,8 @@ The third session of presentations featuring selected research talks from UK AI 
 
 | Start   | End    | Talk                                                                                                                        | Speaker                |  Institution              |
 |  :----: | :----: |   :----:                                                                                                                    |   :----:               |   :----:                  | 
-| 16:15   | 16:30  | TBA                                                                                                                         | TBA                    | TBA                       |
-| 16:30   | 16:45  | TBA                                                                                                                         | TBA                    | TBA                       |
-| 16:45   | 17:00  | TBA                                                                                                                         | TBA                    | TBA                       |
-| 17:00   | 17:15  | TBA                                                                                                                         | TBA                    | TBA                       |
-| 17:15   | 17:30  | TBA                                                                                                                         | TBA                    | TBA                       | 
+| 16:15   | 16:30  | Reimagining Speech Metrics: Characterising Brain Tumour Speech for Future Featurisation                                      | N. Aizaan Anwar        | Imperial College London   |
+| 16:30   | 16:45  | Ethical AI in Healthcare: Discussing Technical and Environmental Aspects of Using AI in the Current NHS and Social Care Landscape | Marjory Da Costa Abreu | Sheffield Hallam University |
+| 16:45   | 17:00  | Combining imaging and shape features for prediction tasks of Alzheimer's disease classification and brain age regression      | Nairouz Shehata        | Imperial College London/ Aswan Heart Centre - Magdi Yacoub Foundation |
+| 17:00   | 17:15  | Hybrid Intelligence in Medical Image Segmentation                                                                            | Namia Mohamed Ali      | University of Exeter      |
+| 17:15   | 17:30  | AI-Driven MedTech Classification Using Retrieval-Augmented Generation: A Scalable Proof of Concept for Horizon Scanning      | Saleh Mohamed          | Newcastle University      | 
