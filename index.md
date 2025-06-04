@@ -3,6 +3,16 @@ layout: home
 title: Index
 ---
 
+# Programme
+
+Arrival and registration will begin at 9:30 on 23 June, with the opening session taking place at 10:00. 
+
+A full programme for the conference can be found [here](https://uk-ai.org/ukai2025/program.html).
+
+# Venue
+
+The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.conference.location }}. More details on the venue can be found [here](https://uk-ai.org/ukai2025/venue.html).
+
 # Registration
 
 To register for the conference, please use this link: **[Registration](https://www.eventbrite.co.uk/e/uk-ai-conference-2025-tickets-1323452765849){:target="_blank"}**
@@ -20,10 +30,6 @@ For questions and queries please contact Christian Cabrera: [chc79@cam.ac.uk](ma
 # Key Dates 
 
 {% include listdates.html %}
-
-# Venue
-
-The conference will be hosted at {{ site.data.conference.venue }}, {{ site.data.conference.location }}. More details on the venue can be found [here](https://uk-ai.org/ukai2025/venue.html).
 
 # Organizing Committee
 
