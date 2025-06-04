@@ -1,7 +1,7 @@
 ---
 title: "Conference Closing"
 track: 1
-excerpt: Closing remarks and conference conclusion
+excerpt:
 layout: plenary
 start_time: 2025-06-24 17:00
 end_time: 2025-06-24 17:05

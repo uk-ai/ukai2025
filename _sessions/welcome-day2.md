@@ -1,7 +1,7 @@
 ---
 title: "Day 2 Welcome"
 track: 1
-excerpt: Opening remarks for day 2
+excerpt:
 layout: plenary
 start_time: 2025-06-24 10:00
 end_time: 2025-06-24 10:05

@@ -1,7 +1,7 @@
 ---
 title: "Conference Welcome"
 track: 1
-excerpt: Opening remarks and conference introduction
+excerpt:
 layout: plenary
 start_time: 2025-06-23 10:00
 end_time: 2025-06-23 10:05
