@@ -11,7 +11,7 @@ venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 
 Morning coffee break with poster presentations. Take this opportunity to network with fellow attendees and view the first set of poster presentations.
 
-**Posters format**: A0 or A1 with portrait orientation.
+**Posters format**: A0 with portrait orientation.
 
 | Board | Poster | Author | Institution  |
 | :----: | :----: | :----: | :----: |
