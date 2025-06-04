@@ -9,4 +9,4 @@ location: Main Auditorium
 venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 ---
 
-Prof Alastair Denniston from HDR UK and the University of Birmingham will deliver the opening keynote address of UK AI 2025. This year's conference is supported by HDR UK, the National Institute for Health Data Research.
+Prof Alastair Denniston from HDR UK and the University of Birmingham will deliver the opening keynote address of UK AI 2025.

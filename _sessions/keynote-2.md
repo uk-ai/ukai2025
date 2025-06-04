@@ -9,4 +9,4 @@ location: Main Auditorium
 venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 ---
 
-Dr Anjali Mazumder from The Alan Turing Institute will deliver the keynote address for Day 2 of UK AI 2025. This year's conference is supported by HDR UK, the National Institute for Health Data Research. 
+Dr Anjali Mazumder from The Alan Turing Institute will deliver the keynote address for Day 2 of UK AI 2025.

@@ -1,5 +1,5 @@
 ---
-title: "Public Panel Discussion"
+title: "Public Engagement Panel Discussion"
 track: 1
 excerpt: Panel discussion featuring members of the public, led by PEDRI
 layout: plenary
