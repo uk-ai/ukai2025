@@ -20,7 +20,7 @@ Afternoon coffee break with poster presentations. Take this opportunity to netwo
 | 3 | Automated evaluation of eczema severity scores for diverse skin tones | Leo Huang | Imperial College London |
 | 4 | Dynamic Graph Machine Learning for Early Detection and Characterisation of Antimicrobial Resistant Outbreaks from Acute Care Data | Oskar Fraser-Krauss | Imperial College London |
 | 5 | Too Good to Be True: LLM Performance on Obfuscated Tasks | Radzim Sendyka | University of Cambridge |
-| 6 | AI Nurses Network: building a clinical research network on artificial intelligence in nursing | Siobhan O'Connor | King's College London |
+| 6 | AI Nurses Network: building a clinical research network on artificial intelligence in nursing | Xiaoyang Li | King's College London |
 | 7 | InfoSEM: A Deep Generative Model with Informative Priors for Gene Regulatory Network Inference | Tianyu Cui | Johnson and Johnson |
 | 8 | Development of an ML-based Personalised Medicine Platform: Opportunities from an Industry Perspective | Zoher Kapacee | Umbizo |
 | 9 | InstaNovo Enables Diffusion-powered De Novo Peptide Sequencing In Large-scale Proteomics Experiments | Kevin Eloff | InstaDeep |
