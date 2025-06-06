@@ -25,7 +25,7 @@ Afternoon coffee break with poster presentations. Take this opportunity to netwo
 | 8 | Development of an ML-based Personalised Medicine Platform: Opportunities from an Industry Perspective | Zoher Kapacee | Umbizo |
 | 9 | InstaNovo Enables Diffusion-powered De Novo Peptide Sequencing In Large-scale Proteomics Experiments | Kevin Eloff | InstaDeep |
 | 10 | A Machine Learning Method for Quantifying Head Position during Sleep in People with Dementia and Apnoea | Sarmad Al-Gawwam | University of Surrey |
-| 11 | AI-Mediated Mental Health Support Among Chinese Migrants in the UK: An Ethnographic Study of Chatbots and Online Communities | Ghiasuddin Pir | SOAS, University of London |
+| 11 | AI-Mediated Mental Health Support Among Chinese Migrants in the UK: An Ethnographic Study of Chatbots and Online Communities | Xin Ye | SOAS, University of London |
 | 12 | The Virtual Epidemiology Lab: AI-Driven Interdisciplinary Teams for Enhanced Zoonotic Spillover Risk Prediction | Maarten Vanhaverbeke | London School of Hygiene and Tropical Medicine/Natural History Museum London |
 | 13 | Efficient AI for Sound using Pruning | Arshdeep Singh | CVSSP, University of Surrey, UK |
 | 14 | Network Anomaly Detection in the Presence of Structural Changes | Rachel Wood | University of Bristol |
