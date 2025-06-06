@@ -29,8 +29,9 @@ Morning coffee break with poster presentations. Take this opportunity to network
 | 12 | Automatic Data Extraction from Historical Accession Registers at the Natural History Museum | Alex Burr | UCL/UK Natural History Museum |
 | 13 | Two Heads Are Better Than One: Dual-Model Verbal Reflection at Inference-Time | Jiazheng Li | King's College London |
 | 14 | Learning from Gradient-Based Expert Annotations | Jonathan Erskine | University of Bristol |
-| 15 | AI Lens | Richard Ramchurn | University of Nottingham |
-| 16 | UniVST: A Multi-Conditional Adapter for Unified Voice Style Transfer with Style Manipulation | Yun Chen | University of Surrey |
+| 15 | UniVST: A Multi-Conditional Adapter for Unified Voice Style Transfer with Style Manipulation | Yun Chen | University of Surrey |
+| 16 | Explainable and interactive synthetic data curation to improve object detection | Nitish Mital | The Alan Turing Institute |
 | 17 | Domestic Renewable Energy Utilisation: Shift or Store? | Jan Buermann | University of Southampton |
-| 18 | Deep Learning for Diatom Shape Analysis | Shajeda Khanom | UCL and NHM |
-| 19 | Explainable and interactive synthetic data curation to improve object detection | Nitish Mital | The Alan Turing Institute |
+| 18 | AI Lens | Richard Ramchurn | University of Nottingham |
+| 19 | Deep Learning for Diatom Shape Analysis | Shajeda Khanom | UCL and NHM |
+
