@@ -13,6 +13,6 @@ The first session of presentations featuring selected research talks from UK AI 
 
 | Start   | End    | Talk                                                                                                                        | Speaker                |  Institution              |
 |  :----: | :----: |   :----:                                                                                                                    |   :----:               |   :----:                  | 
-| 11:40   | 11:55  | Generative Pretrained Transformers for Medical Communication Training and Automated Performance Assessment                    | Dr Shereen Fouad       | Aston University          |
+| 11:40   | 11:55  | Generative Pretrained Transformers for Medical Communication Training and Automated Performance Assessment                    | Dr  Ghaniah Hassan-Smith  | Aston University          |
 | 11:55   | 12:10  | Advanced machine learning outperforms clinical biomarkers in predicting outcomes after atezolizumab plus bevacizumab for advanced hepatocellular carcinoma | Mathew Vithayathil     | Imperial College London   |
 | 12:10   | 12:25  | Foresight: a national-scale foundation model of 51 million patients for generative medical event prediction                  | Simon Ellershaw        | University College London |
