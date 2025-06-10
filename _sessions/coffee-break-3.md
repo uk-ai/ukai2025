@@ -33,4 +33,5 @@ Morning coffee break with poster presentations. Take this opportunity to network
 | 16 | Domestic Renewable Energy Utilisation: Shift or Store? | Jan Buermann | University of Southampton |
 | 17 | AI Lens | Richard Ramchurn | University of Nottingham |
 | 18 | Deep Learning for Diatom Shape Analysis | Shajeda Khanom | UCL and NHM |
+| 19 | The Importance of Model Inspection for Better Understanding Performance Characteristics of Graph Neural Networks | Nairouz Shehata | Imperial College London/ Aswan Heart Centre - Magdi Yacoub Foundation |
 
