@@ -32,4 +32,5 @@ Morning coffee break with poster presentations. Take this opportunity to network
 | 15 | CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation | Zhenyi Shen | King's College London |
 | 16 | AI and Intelligent Synthetic Skin: Advancing Beyond Human Skin for Sensory Human-Robot Interaction (HRI) | Feng Zhou | University of Nottingham |
 | 17 | Using FTIR and Raman Spectroscopy to Study Macro-Plastic Pollution Ingested by Seabirds | Joby Razzelliot | Natural History Museum |
+| 18 | Learning from Gradient-Based Expert Annotations | Jonathan Erskine | University of Bristol |
 
