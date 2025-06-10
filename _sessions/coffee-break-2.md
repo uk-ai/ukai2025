@@ -31,6 +31,6 @@ Afternoon coffee break with poster presentations. Take this opportunity to netwo
 | 14 | Network Anomaly Detection in the Presence of Structural Changes | Rachel Wood | University of Bristol |
 | 15 | SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction from Research Papers | Yanzheng Xiang | King's College London |
 | 16 | FlexTool-MLLM: A Modular Decomposition and Reasoning Framework for Visual Questing Answering | Sophie Fisher | University of Edinburgh |
-| 17 | Assessing the Reasoning Capabilities of LLMs in the context of Evidence-based Claim Verification | Mahmud Elahi Akhter | Queen Mary University of London |
+| 17 | Assessing the Reasoning Capabilities of LLMs in the context of Evidence-based Claim Verification | John Dougrez-Lewis | University of Warwick |
 | 18 | Benchmarking Skeletal Human Action Recognition in Data Degraded Environments | Simon Malzard | The Alan Turing Institute |
 | 19 | An automated method for registering bone positions on biplane radiographs using CNNs and optimisation | Janine Flohr | Cardiff University |
