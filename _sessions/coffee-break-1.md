@@ -25,12 +25,11 @@ Morning coffee break with poster presentations. Take this opportunity to network
 | 8 | Cumulative patient risk profiling for lower limb arthroplasty: A large data machine learning model | Harrison Gaiger | Definition Health |
 | 9 | A Comparative Study of Graph Neural Networks for Shape Classification in Neuroimaging | Nairouz Shehata | Imperial College London/ Aswan Heart Research Centre - Magdi Yacoub Foundation |
 | 10 | Identifying nutraceutical and pharmacological targets to alleviate polycystic ovary syndrome | Simon Hanassab | Imperial College London |
-| 11 | Interpretable Ensemble Machine Learning Model for Correlates of Early Childhood Development in Nigeria | Obaloluwa Gbadegesin | University of Ibadan |
-| 12 | EnigmaToM: Improve LLMs' Theory-of-Mind Reasoning Capabilities with Neural Knowledge Base of Entity States | Hainiu Xu | King's College London |
-| 13 | The Importance of Model Inspection for Better Understanding Performance Characteristics of Graph Neural Networks | Nairouz Shehata | Imperial College London/ Aswan Heart Centre - Magdi Yacoub Foundation |
-| 14 | LLM-Guided Dynamic Progress Control with Attention-Guided Hierarchical Weighted Graph for Long-Document QA | Xinyu Wang | University of Warwick |
-| 15 | Smart Electric Vehicle Charging Station Scheduling with Vehicle-to-Grid Technology | Fariba Dehghan | University of Southampton |
-| 16 | CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation | Zhenyi Shen | King's College London |
-| 17 | AI and Intelligent Synthetic Skin: Advancing Beyond Human Skin for Sensory Human-Robot Interaction (HRI) | Feng Zhou | University of Nottingham |
-| 18 | Using FTIR and Raman Spectroscopy to Study Macro-Plastic Pollution Ingested by Seabirds | Joby Razzelliot | Natural History Museum |
+| 11 | EnigmaToM: Improve LLMs' Theory-of-Mind Reasoning Capabilities with Neural Knowledge Base of Entity States | Hainiu Xu | King's College London |
+| 12 | The Importance of Model Inspection for Better Understanding Performance Characteristics of Graph Neural Networks | Nairouz Shehata | Imperial College London/ Aswan Heart Centre - Magdi Yacoub Foundation |
+| 13 | LLM-Guided Dynamic Progress Control with Attention-Guided Hierarchical Weighted Graph for Long-Document QA | Xinyu Wang | University of Warwick |
+| 14 | Smart Electric Vehicle Charging Station Scheduling with Vehicle-to-Grid Technology | Fariba Dehghan | University of Southampton |
+| 15 | CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation | Zhenyi Shen | King's College London |
+| 16 | AI and Intelligent Synthetic Skin: Advancing Beyond Human Skin for Sensory Human-Robot Interaction (HRI) | Feng Zhou | University of Nottingham |
+| 17 | Using FTIR and Raman Spectroscopy to Study Macro-Plastic Pollution Ingested by Seabirds | Joby Razzelliot | Natural History Museum |
 
