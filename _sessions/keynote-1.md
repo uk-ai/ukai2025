@@ -1,6 +1,6 @@
 ---
 layout: plenary
-title: "Keynote: Prof Alastair Denniston"
+title: "The last mile - why so many great AI ideas die before they get to patients, and what you can do about it."
 track: 1
 excerpt: Keynote presentation by Prof Alastair Denniston from HDR UK, University of Birmingham
 start_time: 2025-06-23 10:05
