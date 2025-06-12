@@ -11,6 +11,8 @@ venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 
 The fourth session of presentations featuring selected research talks from UK AI researchers.
 
+**Chair**: Feng Zhou, University of Nottingham
+
 | Start   | End    | Talk                                                                                                                        | Speaker                |  Institution              |
 |  :----: | :----: |   :----:                                                                                                                    |   :----:               |   :----:                  | 
 | 11:45   | 12:00  | Identifying Risk Factors for Rodent-Borne Disease Outbreaks with AI                                                          | Natalie Imirzian       | Natural History Museum    |
