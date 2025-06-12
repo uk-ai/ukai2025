@@ -15,7 +15,7 @@ The final session of presentations featuring selected research talks from UK AI 
 
 | Start   | End    | Talk                                                                                                                        | Speaker                |  Institution              |
 |  :----: | :----: |   :----:                                                                                                                    |   :----:               |   :----:                  | 
-| 15:45   | 16:00  | Maverick-Aware Shapley Valuation for Client Selection in Federated Learning                                                  | Baturalp Buyukates     | University of Birmingham  |
+| 15:45   | 16:00  | Maverick-Aware Shapley Valuation for Client Selection in Federated Learning                                                  | Baturalp Büyükateş     | University of Birmingham  |
 | 16:00   | 16:15  | Unlocking Epidemiological Data: Developing LLM-Powered Extraction and Real-Time Conversational Interfaces                    | Artur Trebski          | Natural History Museum    |
 | 16:15   | 16:30  | Morphological insight through explainable image-based models                                                                 | Jack Hollister         | Natural History Museum, London |
 | 16:30   | 16:45  | Semifield Markov categories                                                                                                | Dhurim Cakiqi          | University of Birmingham  |
