@@ -11,6 +11,8 @@ venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 
 The third session of presentations featuring selected research talks from UK AI researchers.
 
+**Chair**: Alistair Benford, University of Birmingham
+
 | Start   | End    | Talk                                                                                                                        | Speaker                |  Institution              |
 |  :----: | :----: |   :----:                                                                                                                    |   :----:               |   :----:                  | 
 | 16:15   | 16:30  | Reimagining Speech Metrics: Characterising Brain Tumour Speech for Future Featurisation                                      | N. Aizaan Anwar        | Imperial College London   |
