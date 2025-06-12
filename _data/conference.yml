@@ -6,7 +6,7 @@ instance: Third
 # set to True if the programme is draft only.
 draft: False # set tbo True if the programme is draft only.
 hide_tentative: False
-venue: The Gibbs Building, Wellcome Trust Collection
+venue: The Gibbs Building
 venue_url:
 location: London, UK
 year: 2025
