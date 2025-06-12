@@ -10,6 +10,7 @@ venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 ---
 
 The first session of presentations featuring selected research talks from UK AI researchers.
+**Chair**: Arianna Salili-James
 
 | Start   | End    | Talk                                                                                                                        | Speaker                |  Institution              |
 |  :----: | :----: |   :----:                                                                                                                    |   :----:               |   :----:                  | 
