@@ -29,8 +29,9 @@ Afternoon coffee break with poster presentations. Take this opportunity to netwo
 | 12 | The Virtual Epidemiology Lab: AI-Driven Interdisciplinary Teams for Enhanced Zoonotic Spillover Risk Prediction | Maarten Vanhaverbeke | London School of Hygiene and Tropical Medicine/Natural History Museum London |
 | 13 | Efficient AI for Sound using Pruning | Arshdeep Singh | CVSSP, University of Surrey, UK |
 | 14 | Network Anomaly Detection in the Presence of Structural Changes | Rachel Wood | University of Bristol |
-| 15 | SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction from Research Papers | Yanzheng Xiang | King's College London |
-| 16 | FlexTool-MLLM: A Modular Decomposition and Reasoning Framework for Visual Questing Answering | Sophie Fisher | University of Edinburgh |
-| 17 | Assessing the Reasoning Capabilities of LLMs in the context of Evidence-based Claim Verification | John Dougrez-Lewis | University of Warwick |
-| 18 | Benchmarking Skeletal Human Action Recognition in Data Degraded Environments | Simon Malzard | The Alan Turing Institute |
-| 19 | An automated method for registering bone positions on biplane radiographs using CNNs and optimisation | Janine Flohr | Cardiff University |
+| 15 | AI and Intelligent Synthetic Skin: Advancing Beyond Human Skin for Sensory Human-Robot Interaction (HRI) | Feng Zhou | University of Nottingham |
+| 16 | SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction from Research Papers | Yanzheng Xiang | King's College London |
+| 17 | FlexTool-MLLM: A Modular Decomposition and Reasoning Framework for Visual Questing Answering | Sophie Fisher | University of Edinburgh |
+| 18 | Assessing the Reasoning Capabilities of LLMs in the context of Evidence-based Claim Verification | John Dougrez-Lewis | University of Warwick |
+| 19 | Benchmarking Skeletal Human Action Recognition in Data Degraded Environments | Simon Malzard | The Alan Turing Institute |
+| 20 | An automated method for registering bone positions on biplane radiographs using CNNs and optimisation | Janine Flohr | Cardiff University |
