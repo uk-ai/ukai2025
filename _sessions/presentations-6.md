@@ -11,6 +11,8 @@ venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 
 The final session of presentations featuring selected research talks from UK AI researchers.
 
+**Chair**: Sarah Kiden, University of Southampton
+
 | Start   | End    | Talk                                                                                                                        | Speaker                |  Institution              |
 |  :----: | :----: |   :----:                                                                                                                    |   :----:               |   :----:                  | 
 | 15:45   | 16:00  | Maverick-Aware Shapley Valuation for Client Selection in Federated Learning                                                  | Baturalp Buyukates     | University of Birmingham  |
