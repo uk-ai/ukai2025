@@ -28,7 +28,7 @@ Morning coffee break with poster presentations. Take this opportunity to network
 | 11 | LLM-Guided Dynamic Progress Control with Attention-Guided Hierarchical Weighted Graph for Long-Document QA | Xinyu Wang | University of Warwick |
 | 12 | Smart Electric Vehicle Charging Station Scheduling with Vehicle-to-Grid Technology | Fariba Dehghan | University of Southampton |
 | 13 | CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation | Zhenyi Shen | King's College London |
-| 14 | AI and Intelligent Synthetic Skin: Advancing Beyond Human Skin for Sensory Human-Robot Interaction (HRI) | Feng Zhou | University of Nottingham |
-| 15 | Using FTIR and Raman Spectroscopy to Study Macro-Plastic Pollution Ingested by Seabirds | Joby Razzelliot | Natural History Museum |
+| 14 | Using FTIR and Raman Spectroscopy to Study Macro-Plastic Pollution Ingested by Seabirds | Joby Razzelliot | Natural History Museum |
+| 15 | AI and Intelligent Synthetic Skin: Advancing Beyond Human Skin for Sensory Human-Robot Interaction (HRI) | Feng Zhou | University of Nottingham |
 | 16 | Learning from Gradient-Based Expert Annotations | Jonathan Erskine | University of Bristol |
 
