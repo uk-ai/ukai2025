@@ -31,4 +31,5 @@ Morning coffee break with poster presentations. Take this opportunity to network
 | 14 | Using FTIR and Raman Spectroscopy to Study Macro-Plastic Pollution Ingested by Seabirds | Joby Razzelliot | Natural History Museum |
 | 15 | AI and Intelligent Synthetic Skin: Advancing Beyond Human Skin for Sensory Human-Robot Interaction (HRI) | Feng Zhou | University of Nottingham |
 | 16 | Learning from Gradient-Based Expert Annotations | Jonathan Erskine | University of Bristol |
+| 17 | Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials | Xintong	Yang | Cardiff University |
 
