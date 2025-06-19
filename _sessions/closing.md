@@ -1,5 +1,5 @@
 ---
-title: "Conference Closing"
+title: "Conference Closing and Prizes"
 track: 1
 excerpt:
 layout: plenary
