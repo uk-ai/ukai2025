@@ -27,7 +27,7 @@ Afternoon coffee break with poster presentations. Take this opportunity to netwo
 | 10 | Winnow: Mass spectrum feature rescoring, FDR calculation and model integration in de novo sequencing | Jemma Daniel | InstaDeep |
 | 11 | A Machine Learning Method for Quantifying Head Position during Sleep in People with Dementia and Apnoea | Sarmad Al-Gawwam | University of Surrey |
 | 12 | AI-Mediated Mental Health Support Among Chinese Migrants in the UK: An Ethnographic Study of Chatbots and Online Communities | Xin Ye | SOAS, University of London |
-| 13 | The Virtual Epidemiology Lab: AI-Driven Interdisciplinary Teams for Enhanced Zoonotic Spillover Risk Prediction | Maarten Vanhaverbeke | Natural History Museum |
+| 13 | The Virtual Epidemiology Lab: AI-Driven Interdisciplinary Teams for Enhanced Zoonotic Spillover Risk Prediction | Maarten Vanhaverbeke | London School of Hygiene and Tropical Medicine / Natural History Museum |
 | 14 | Efficient AI for Sound using Pruning | Arshdeep Singh | CVSSP, University of Surrey, UK |
 | 15 | Network Anomaly Detection in the Presence of Structural Changes | Rachel Wood | University of Bristol |
 | 16 | SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction from Research Papers | Yanzheng Xiang | King's College London |
