@@ -1,6 +1,6 @@
 ---
 layout: plenary
-title: "Presentations Session 3"
+title: "Presentation Session 3"
 track: 1
 start_time: 2025-06-23 16:15
 end_time: 2025-06-23 17:30
