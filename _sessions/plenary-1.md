@@ -2,7 +2,7 @@
 layout: plenary
 title: "TBD."
 track: 1
-excerpt: Keynote presentation by Prof Alastair Denniston from HDR UK, University of Birmingham
+excerpt: Plenary talk by Dr Sanson Poon from the Natural History Museum AI Lab
 start_time: 2025-06-24 10:05
 end_time: 2025-06-24 10:35
 location:
