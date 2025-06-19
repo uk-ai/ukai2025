@@ -6,7 +6,7 @@ excerpt: Keynote presentation by Prof Alastair Denniston from HDR UK, University
 start_time: 2025-06-23 10:05
 end_time: 2025-06-23 10:45
 location:
-venue: Wellcome Trust Collection, London, UK
+venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 ---
 
 Prof Alastair Denniston from HDR UK and the University of Birmingham will deliver the opening keynote address of UK AI 2025.
