@@ -3,7 +3,7 @@ layout: plenary
 title: "Presentations Session 5"
 track: 1
 start_time: 2025-06-24 14:00
-end_time: 2025-06-24 15:15
+end_time: 2025-06-24 15:30
 excerpt: Fifth session of research presentations
 location:
 venue: The Gibbs Building, Wellcome Trust Collection, London, UK
@@ -20,3 +20,4 @@ The fifth session of presentations featuring selected research talks from UK AI 
 | 14:30   | 14:45  | Leveraging Large Models' Feature Extraction for Chest X-ray Report Generation                                                | Xinyi Wang             | University of Nottingham  |
 | 14:45   | 15:00  | Strengthening Health AI: The Role of Data Integrity and Public Confidence                                                    | Maria Ilia             | Natural History Museum    |
 | 15:00   | 15:15  | Distress detection using novel wearable SmartSocks                                                                          | Prabha Venkatesh       | Milbotix Ltd.            | 
+| 15:15   | 15:30  | Using Speculative Design for Anticipatory AI Governance                                                                      | Sarah Kiden            | University of Southampton |
