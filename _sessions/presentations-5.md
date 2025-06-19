@@ -18,5 +18,5 @@ The fifth session of presentations featuring selected research talks from UK AI 
 | 14:00   | 14:15  | Capturing AI's Attention for Health: Mitigating Biases and other AI Threats                                                  | Neil Johnson           | George Washington University |
 | 14:15   | 14:30  | How AI is Used for Good: Supporting Survivors of TFGBV through a WhatsApp-Based Chatbot in West Africa                      | Taibat Hussain         | Brain Builders Youth Development Initiative |
 | 14:30   | 14:45  | Leveraging Large Models' Feature Extraction for Chest X-ray Report Generation                                                | Xinyi Wang             | University of Nottingham  |
-| 14:45   | 15:00  | Strengthening Health AI: The Role of Data Integrity and Public Confidence                                                    | Maria Ilia             | NHS                       |
+| 14:45   | 15:00  | Strengthening Health AI: The Role of Data Integrity and Public Confidence                                                    | Maria Ilia             | Natural History Museum    |
 | 15:00   | 15:15  | Distress detection using novel wearable SmartSocks                                                                          | Prabha Venkatesh       | Milbotix Ltd.            | 
