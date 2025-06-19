@@ -22,7 +22,7 @@ Morning coffee break with poster presentations. Take this opportunity to network
 | 5 | Optimising ARIMA for Time Series Forecasting: The CLEAVE Method for Adaptive Parameter Selection | Niloofar Aminikalibar | Aston University |
 | 6 | Sequential Q-Learning: Stabilising Long Time Horizon Bellman Backup Operation | Taku Yamagata | University of Bristol |
 | 7 | Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked EHR and Pathology Lab Dataset | Yujie Dai | University of Bristol |
-| 8 | Winnow: Mass spectrum feature rescoring, FDR calculation and model integration in de novo sequencing | Jemma Daniel | InstaDeep |
+| 8 | InstaNovo Enables Diffusion-powered De Novo Peptide Sequencing In Large-scale Proteomics Experiments | Kevin Eloff | InstaDeep |
 | 9 | A Comparative Study of Graph Neural Networks for Shape Classification in Neuroimaging | Nairouz Shehata | Imperial College London/ Aswan Heart Research Centre - Magdi Yacoub Foundation |
 | 10 | Identifying nutraceutical and pharmacological targets to alleviate polycystic ovary syndrome | Simon Hanassab | Imperial College London |
 | 11 | EnigmaToM: Improve LLMs' Theory-of-Mind Reasoning Capabilities with Neural Knowledge Base of Entity States | Hainiu Xu | King's College London |
