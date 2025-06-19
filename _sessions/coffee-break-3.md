@@ -3,8 +3,8 @@ title: "Coffee Break and Poster Session 3"
 track: 1
 excerpt: Morning coffee break with poster presentations
 layout: plenary
-start_time: 2025-06-24 10:45
-end_time: 2025-06-24 11:45
+start_time: 2025-06-24 10:35
+end_time: 2025-06-24 11:30
 location:
 venue: The Gibbs Building, Wellcome Trust Collection, London, UK
 ---
