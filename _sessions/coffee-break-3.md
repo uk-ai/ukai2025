@@ -20,7 +20,7 @@ Morning coffee break with poster presentations. Take this opportunity to network
 | 3 | A Physics-informed Neural Network for Patient-Specific Left Ventricular Finite Element Modelling with Image Motion-Consistency and Myocardial Stiffness and Active Tension Estimation | Siyu Mu | Imperial College London |
 | 4 | AI in Healthcare: From Bias to Better Governance | Viola Dsouza | Faculty of Health, Medicine & Life Sciences, Maastricht University |
 | 5 | LLM For Enhancing Radiology Reports | Beth Pearson | University of Bristol |
-| 6 | Resource-Constrained Annotation Workflows for Paediatric Histopathology Reports using LLMs | Avish Vijayaraghavan | Imperial College London & Great Ormond Street Hospital (GOSH DRIVE) |
+| 6 | Resource-Constrained Annotation Workflow for Paediatric Histopathology Reports using SLMs | Avish Vijayaraghavan | Imperial College London & Great Ormond Street Hospital (GOSH DRIVE) |
 | 7 | Future-Proofing Cell Biology Education: The LIRA Framework for AI-Driven, Career-Connected Learning | Ideja Bajra | University of St Andrews |
 | 8 | Anomaly Detection to Enhance Detection of Antimicrobial Resistance | Nathan Moore | Hampshire Hospitals NHS Foundation Trust |
 | 9 | Multi-State models for Breast Cancer: A Bayesian Non-parametric Approach | Valeria Leiva | MRC Biostatistics Unit, University of Cambridge |
