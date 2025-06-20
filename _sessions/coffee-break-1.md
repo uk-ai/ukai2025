@@ -31,4 +31,5 @@ Morning coffee break with poster presentations. Take this opportunity to network
 | 14 | CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation | Zhenyi Shen | King's College London |
 | 15 | Using FTIR and Raman Spectroscopy to Study Macro-Plastic Pollution Ingested by Seabirds | Joby Razzelliot | Natural History Museum |
 | 16 | Learning from Gradient-Based Expert Annotations | Jonathan Erskine | University of Bristol |
+| 20 | Embrace Angels: an Artistic Exploration of how Humans and Robots can Embrace | Richard Ramchurn | University of Nottingham |
 
