@@ -27,8 +27,6 @@ Morning coffee break with poster presentations. Take this opportunity to network
 | 10 | Lettuce: An Open Source Natural Language Processing Tool for the Translation of Medical Terms into Uniform Clinical Encoding | James Mitchell-White | University of Nottingham |
 | 11 | Deep and machine learning based radiomic models outperform clinical markers in predicting survival and response after immunotherapy for hepatocellular carcinoma | Mathew Vithayathil | Imperial College London |
 | 12 | Automatic Data Extraction from Historical Accession Registers at the Natural History Museum | Alex Burr | Natural History Museum |
-| 13 | Two Heads Are Better Than One: Dual-Model Verbal Reflection at Inference-Time | Jiazheng Li | King's College London |
-| 14 | UniVST: A Multi-Conditional Adapter for Unified Voice Style Transfer with Style Manipulation | Yun Chen | University of Surrey |
 | 15 | Explainable and interactive synthetic data curation to improve object detection | Nitish Mital | The Alan Turing Institute |
 | 16 | Domestic Renewable Energy Utilisation: Shift or Store? | Jan Buermann | University of Southampton |
 | 17 | Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials | Xintong	Yang | Cardiff University |
