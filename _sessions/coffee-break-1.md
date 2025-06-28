@@ -17,7 +17,6 @@ Morning coffee break with poster presentations. Take this opportunity to network
 | :----: | :----: | :----: | :----: |
 | 1 | AI and Intelligent Synthetic Skin: Advancing Beyond Human Skin for Sensory Human-Robot Interaction (HRI) | Feng Zhou | University of Nottingham |
 | 2 | Plantar Thermography for Characterising Long-Term Diabetic Foot Ulceration Risk: A Deep Representation Learning Study | Akshay Jagadeesh | London School of Hygiene and Tropical Medicine |
-| 3 | Decoding and mapping Earth's species interactions with ecological AI | Ian McFadden | Queen Mary University of London |
 | 4 | Urban Transport Decision Making: Improving Traffic Prediction with Symbolic Regression, Transfer Learning and Deep Learning | John Rego Hamilton | Aston University |
 | 5 | Optimising ARIMA for Time Series Forecasting: The CLEAVE Method for Adaptive Parameter Selection | Niloofar Aminikalibar | Aston University |
 | 6 | Sequential Q-Learning: Stabilising Long Time Horizon Bellman Backup Operation | Taku Yamagata | University of Bristol |
@@ -26,7 +25,6 @@ Morning coffee break with poster presentations. Take this opportunity to network
 | 9 | A Comparative Study of Graph Neural Networks for Shape Classification in Neuroimaging | Nairouz Shehata | Imperial College London/ Aswan Heart Research Centre - Magdi Yacoub Foundation |
 | 10 | Identifying nutraceutical and pharmacological targets to alleviate polycystic ovary syndrome | Simon Hanassab | Imperial College London |
 | 11 | EnigmaToM: Improve LLMs' Theory-of-Mind Reasoning Capabilities with Neural Knowledge Base of Entity States | Hainiu Xu | King's College London |
-| 12 | LLM-Guided Dynamic Progress Control with Attention-Guided Hierarchical Weighted Graph for Long-Document QA | Xinyu Wang | University of Warwick |
 | 13 | Smart Electric Vehicle Charging Station Scheduling with Vehicle-to-Grid Technology | Fariba Dehghan | University of Southampton |
 | 14 | CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation | Zhenyi Shen | King's College London |
 | 15 | Using FTIR and Raman Spectroscopy to Study Macro-Plastic Pollution Ingested by Seabirds | Joby Razzelliot | Natural History Museum |
