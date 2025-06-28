@@ -16,5 +16,6 @@ The second session of presentations featuring selected research talks from UK AI
 | Start   | End    | Talk                                                                                                                        | Speaker                |  Institution              |
 |  :----: | :----: |   :----:                                                                                                                    |   :----:               |   :----:                  | 
 | 14:30   | 14:45  | AutoEmulate: Python library for automatically creating accurate and efficient emulators of complex simulations              | Marjan Famili          | The Alan Turing Institute     |
-| 14:45   | 15:00  | Towards Robust Machine Learning Models Through Addressing Geographic and Cultural Variability in Driving Behaviours          | Brian Tshuma           | King's College London     |
 | 15:00   | 15:15  | Beyond Functional Robots: Time-Series Transformers for Generating Robot Embraces                                             | Kieran Woodward        | University of Nottingham  |
+| 15:15   | 15:30  | Stability Analysis of Coevolutionary Algorithms                                                                             | Alistair Benford       | University of Birmingham  | 
+
