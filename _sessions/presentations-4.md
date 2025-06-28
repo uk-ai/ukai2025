@@ -20,4 +20,3 @@ The fourth session of presentations featuring selected research talks from UK AI
 | 12:00   | 12:15  | Audio-Visual Backoff for Privacy-Preserving Speech Enhancement                                                               | Poppy Welch            | University of Southampton |
 | 12:15   | 12:30  | Active Learning for Bio-material Designs                                                                                    | Rongjun Dong           | University of Nottingham  |
 | 12:30   | 12:45  | Improving Accessibility of Museum Collections with AI Generated Alternative Text                                             | Christopher Addis      | Natural History Museum | 
-| 12:45   | 13:00  | Stability Analysis of Coevolutionary Algorithms                                                                             | Alistair Benford       | University of Birmingham  | 
