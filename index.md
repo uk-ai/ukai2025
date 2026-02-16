@@ -3,6 +3,8 @@ layout: home
 title: Index
 ---
 
+<img src="assets/images/plenary.jpg" style="width:100%;height:auto">
+
 # Programme
 
 Registration will begin at 9:30 on 23 June, with the opening session taking place at 10:00.
